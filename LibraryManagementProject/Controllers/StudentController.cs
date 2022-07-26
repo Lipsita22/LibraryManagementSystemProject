@@ -133,9 +133,9 @@ from dbo.Students";
                 }
             }
 
-            return new JsonResult("Deleted Successfully");
+            return new JsonResult("Deleted Successfully done");
         }
-
+        
     }
 }
 
